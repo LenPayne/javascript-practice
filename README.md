@@ -1,6 +1,6 @@
 # JavaScript Practice Exercise
 
-This repository exists to be a jumping-off point, to build a functional web site
+This repository exists to be a jumping-off point, to build a functional web app
 based on a rough skeleton.
 
 The goal of the exercise is to provide a simple calculator application in a web
